@@ -1,0 +1,10 @@
+GEM
+  remote: https://www.rubygems.org/
+  specs:
+    kramdown (1.5.0)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  kramdown (~> 1.5.0)
